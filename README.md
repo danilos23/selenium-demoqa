@@ -17,13 +17,16 @@ It uses the DemoQA site as a playground for testing modern web UI elements.
 
 ## Project Structure
 
-```
 SeleniumFreeCodeCamp/
-ÃÄÄ src/
-³   ÃÄÄ main/java/
-³   ÃÄÄ test/java/
-ÀÄÄ README.md
-```
+|-- src/
+| |-- main/java/
+| | -- pages/ -> Page Object classes (encapsulate locators and actions)
+| -- test/java/
+| |-- tests/ -> Test classes organized by feature
+| -- base/ -> BasePage and helpers
+|-- pom.xml -> Maven dependencies and configuration
+|-- .gitignore -> Ignored files (target/, logs/, screenshots/)
+-- README.md
 
 ---
 
@@ -91,8 +94,8 @@ Tip: Make sure you have Java 21 and Maven configured in your system path.
 
 Daniel Illan
 QA Automation Engineer
-GitHub: https://github.com/tu-usuario-de-github
-LinkedIn: https://www.linkedin.com/
+GitHub: [https://github.com/danilos23](https://github.com/danilos23)
+LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/daniel-illan/)
 
 ---
 

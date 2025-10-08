@@ -16,7 +16,7 @@ It uses the DemoQA site as a playground for testing modern web UI elements.
 ---
 
 ## Project Structure
-
+```
 SeleniumFreeCodeCamp/
 |-- src/
 | |-- main/java/
@@ -27,7 +27,7 @@ SeleniumFreeCodeCamp/
 |-- pom.xml -> Maven dependencies and configuration
 |-- .gitignore -> Ignored files (target/, logs/, screenshots/)
 -- README.md
-
+```
 ---
 
 ## Key Features

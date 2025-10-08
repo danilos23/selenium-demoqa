@@ -32,6 +32,7 @@ SeleniumFreeCodeCamp/
 
 ## Key Features
 
+- Page Object Model (POM): clean separation between test logic and UI locators/actions. 
 - Reusable BasePage Helpers: waitVisible, isVisible, clickSmart, scrollToElementJS, takeScreenshot, and helpers for alerts, frames, and windows.
 - Cross-browser Ready: Configurable WebDriver setup for Chrome, Edge, and Firefox.
 - Dynamic Waits and Smart Actions: Custom wrapper methods for stability against timing issues.

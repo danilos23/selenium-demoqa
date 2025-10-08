@@ -94,8 +94,8 @@ Tip: Make sure you have Java 21 and Maven configured in your system path.
 ## Author
 
 Daniel Illan -
-QA Automation Engineer - 
-GitHub: [https://github.com/danilos23](https://github.com/danilos23) 
+QA Automation Engineer
+- GitHub: [https://github.com/danilos23](https://github.com/danilos23) 
 - LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/daniel-illan/)
 
 ---
